@@ -1,0 +1,18 @@
+{
+  "availableServers": [
+    {
+      "name": "N1",
+      "address": "localhost",
+      "port": 4001,
+      "type": "server",
+      "supportedTasks": ["Task1"]
+    },
+    {
+      "name": "N2",
+      "address": "localhost",
+      "port": 4002,
+      "type": "server",
+      "supportedTasks": ["Task1"]
+    }
+  ]
+}
