@@ -8,10 +8,16 @@ To run the full example you will need to run 4 processes: client, scheduler and 
 
 ```bash
 go run main.go -s1 -p 4001
+```
 
+```bash
 go run main.go -s2 -p 4002
+```
 
+```bash
 go run main.go -scheduler
+```
 
+```bash
 go run main.go
 ```
