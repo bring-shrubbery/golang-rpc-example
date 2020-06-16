@@ -1,5 +1,7 @@
 # Golang RPC Example
 
+*🥑 Please star or fork this repository if you like it 👀*
+
 This is an example of how to setup/use golang's built-in RPC. This example contains a client, scheduler (for primitive load balancing) and two servers, which are contacted by only the scheduler via RPC.
 
 ## How to run
